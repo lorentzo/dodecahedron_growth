@@ -6,6 +6,8 @@ Idea of this project was to create simple but interesting shape (dodecahedron), 
 
 # Examples
 
+All examples are on my Art Station: https://www.artstation.com/artwork/5B5Al8
+
 ![](img/ref4_eevee.png)
 ![](img/ref1_cycles_denoise.png)
 ![](img/4_eevee.png)
